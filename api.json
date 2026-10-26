@@ -1,0 +1,21 @@
+{
+  "api_base_url": "https://api.example.com",
+  "api_base_urls": [
+    "https://api.example.com",
+    "aHR0cHM6Ly9hcGkyLmV4YW1wbGUuY29t"
+  ],
+  "direct_domains": [
+    "example.com",
+    "cdn.example.com"
+  ],
+  "api_type": "xiaov2b",
+  "crisp_website_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "crisp_enabled": true,
+  "website_url": "",
+  "config_version": "1",
+  "update_version": "",
+  "update_changelog_title": "",
+  "update_changelog": "",
+  "update_force": false,
+  "update_apk_url": ""
+}
