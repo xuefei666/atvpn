@@ -1,14 +1,14 @@
 {
-  "api_base_url": "https://api.example.com",
+  "api_base_url": "https://atvpn.cc",
   "api_base_urls": [
-    "https://api.example.com",
+    "https://atvpn.cc",
     "aHR0cHM6Ly9hcGkyLmV4YW1wbGUuY29t"
   ],
   "direct_domains": [
     "example.com",
     "cdn.example.com"
   ],
-  "api_type": "xiaov2b",
+  "api_type": "xboard",
   "crisp_website_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
   "crisp_enabled": true,
   "website_url": "",
