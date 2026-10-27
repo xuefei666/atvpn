@@ -9,8 +9,8 @@
     "cdn.example.com"
   ],
   "api_type": "xboard",
-  "crisp_website_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-  "crisp_enabled": false,
+  "crisp_website_id": "58b42507-8127-4ffa-9474-77cd3561ba38",
+  "crisp_enabled": true
   "website_url": "https://t.me/TGvpn02",
   "config_version": "1",
   "update_version": "",
