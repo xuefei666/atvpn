@@ -18,7 +18,7 @@
   "update_changelog": "更新版本号",
   "update_force": true,
   "update_apk_url": "https://pub-a4d26298e057402a819032ef0097abe6.r2.dev/AT-2.0.2.apk",
-  "banner_enabled": false,
+  "banner_enabled": true,
   "banners": [
     {
       "id": "renew-promo-01",
