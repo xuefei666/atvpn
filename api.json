@@ -22,8 +22,7 @@
     {
       "id": "renew-promo-01",
       "image_url": "https://picui.ogmua.cn/s1/2026/10/28/6ae196730e8d1.webp",
-      "title": "限时续费 8 折",
-      "link_url": "https://your-domain.com/promo/renew",
+      "link_url": "https://t.me/TGvpn02",
       "placement": "dashboard",
       "dismissible": true,
       "start_at": 0,
@@ -32,8 +31,7 @@
     {
       "id": "splash-01",
       "image_url": "https://picui.ogmua.cn/s1/2026/10/28/6ae196f045aa6.webp",
-      "title": "新人专享",
-      "link_url": "https://your-domain.com/promo/new",
+      "link_url": "https://t.me/TGvpn02",
       "placement": "splash",
       "dismissible": true,
       "start_at": 0,
@@ -42,8 +40,7 @@
     {
       "id": "server-promo-01",
       "image_url": "https://picui.ogmua.cn/s1/2026/10/28/6ae196730e8d1.webp",
-      "title": "更多节点",
-      "link_url": "https://your-domain.com/plans",
+      "link_url": "https://t.me/TGvpn02",
       "placement": "server",
       "dismissible": true,
       "start_at": 0,
