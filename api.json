@@ -10,12 +10,44 @@
   ],
   "api_type": "xboard",
   "crisp_website_id": "58b42507-8127-4ffa-9474-77cd3561ba38",
-  "crisp_enabled": true
+  "crisp_enabled": true,
   "website_url": "https://t.me/TGvpn02",
   "config_version": "1",
   "update_version": "",
   "update_changelog_title": "",
   "update_changelog": "",
   "update_force": false,
-  "update_apk_url": ""
+  "update_apk_url": "",
+  "banners": [
+    {
+      "id": "renew-promo-01",
+      "image_url": "https://picui.ogmua.cn/s1/2026/10/28/6ae196730e8d1.webp",
+      "title": "限时续费 8 折",
+      "link_url": "https://your-domain.com/promo/renew",
+      "placement": "dashboard",
+      "dismissible": true,
+      "start_at": 0,
+      "end_at": 0
+    },
+    {
+      "id": "splash-01",
+      "image_url": "https://picui.ogmua.cn/s1/2026/10/28/6ae196f045aa6.webp",
+      "title": "新人专享",
+      "link_url": "https://your-domain.com/promo/new",
+      "placement": "splash",
+      "dismissible": true,
+      "start_at": 0,
+      "end_at": 0
+    },
+    {
+      "id": "server-promo-01",
+      "image_url": "https://picui.ogmua.cn/s1/2026/10/28/6ae196730e8d1.webp",
+      "title": "更多节点",
+      "link_url": "https://your-domain.com/plans",
+      "placement": "server",
+      "dismissible": true,
+      "start_at": 0,
+      "end_at": 0
+    }
+  ]
 }
