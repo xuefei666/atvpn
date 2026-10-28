@@ -18,6 +18,7 @@
   "update_changelog": "",
   "update_force": false,
   "update_apk_url": "",
+  "banner_enabled": false,
   "banners": [
     {
       "id": "renew-promo-01",
