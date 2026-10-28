@@ -13,11 +13,11 @@
   "crisp_enabled": true,
   "website_url": "https://t.me/TGvpn02",
   "config_version": "1",
-  "update_version": "2.0.3",
+  "update_version": "2.0.4",
   "update_changelog_title": "新版本来了",
   "update_changelog": "更新版本号",
   "update_force": true,
-  "update_apk_url": "https://pub-a4d26298e057402a819032ef0097abe6.r2.dev/AT-2.0.3.apk",
+  "update_apk_url": "https://pub-a4d26298e057402a819032ef0097abe6.r2.dev/AT-2.0.4.apk",
   "banner_enabled": false,
   "banners": [
     {
